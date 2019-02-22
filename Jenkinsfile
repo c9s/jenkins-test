@@ -3,5 +3,5 @@ properties([
 ])
 
 node {
-
+    echo "hello"
 }
